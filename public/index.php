@@ -10,12 +10,13 @@
 			
 			
 	</p>
+	<hr>
 	<b>
 			This is my app.
 	</b>
-	
+	<hr>
 	<strong>
-			This is interesting app in php in the cloud.
+			This is an interesting app in php in the cloud.
 	</strong>
 </body>
 </html>
